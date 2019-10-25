@@ -6,7 +6,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">Dribble With Ruby :smile:</h3>
+  <h3 align="center">:gem: Dribble With Ruby :gem:</h3>
 
   <p align="center">
     This is a ruby and rails project that covers a clone of Dribble, including some of the application
