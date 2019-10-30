@@ -74,5 +74,6 @@ This is the list of the gems that are required
 - [Impressionist](https://github.com/charlotte-ruby/impressionist) - To count views
 - [Simple Form](https://github.com/plataformatec/simple_form) - Provide simple sintax forms
 - [Bulma Rails](https://github.com/joshuajansen/bulma-rails) - CSS framework.
+- [hirb](http://tagaholic.me/hirb/doc/) - It desplays a better view of the database
 
 
